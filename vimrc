@@ -6,14 +6,16 @@ endif
 
 call plug#begin('~/.vim/plugged')
 
-    "general stuff
+    " general stuff
     Plug 'junegunn/vim-plug'
 
-    "coding stuff
+    " coding stuff
     Plug 'sheerun/vim-polyglot'
 
-    "color stuff
+    " color stuff
     Plug 'kaicataldo/material.vim'
+    Plug 'NLKNguyen/papercolor-theme'
+    Plug 'srcery-colors/srcery-vim'
 
 call plug#end()
 
@@ -45,8 +47,15 @@ set mouse=a
 syntax on
 
 
-"Material scheme
-let g:material_terminal_italics = 1
-let g:material_theme_style = 'dark'
-colorscheme material
+" Material theme
+" let g:material_terminal_italics = 1
+" let g:material_theme_style = 'dark'
+" colorscheme material
 
+" PaperColor theme
+" set background=dark
+" colorscheme PaperColor
+
+" Srcery theme
+let g:srcery_italic = 1
+colorscheme srcery

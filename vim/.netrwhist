@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =9
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/Users/tpoulsen/Code/zshCustom'
 let g:netrw_dirhist_9='/Users/tpoulsen/.oh-my-zsh/custom/plugins'
 let g:netrw_dirhist_8='/Users/tpoulsen/.oh-my-zsh/custom'
 let g:netrw_dirhist_7='/Users/tpoulsen/.oh-my-zsh/custom/plugins/example'
