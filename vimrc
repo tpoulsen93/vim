@@ -13,9 +13,9 @@ call plug#begin('~/.vim/plugged')
     Plug 'sheerun/vim-polyglot'
 
     " color stuff
-    Plug 'kaicataldo/material.vim'
-    Plug 'NLKNguyen/papercolor-theme'
-    Plug 'srcery-colors/srcery-vim'
+    "Plug 'kaicataldo/material.vim'
+    "Plug 'NLKNguyen/papercolor-theme'
+    "Plug 'srcery-colors/srcery-vim'
 
 call plug#end()
 
@@ -57,5 +57,5 @@ syntax on
 " colorscheme PaperColor
 
 " Srcery theme
-let g:srcery_italic = 1
-colorscheme srcery
+" let g:srcery_italic = 1
+" colorscheme srcery
