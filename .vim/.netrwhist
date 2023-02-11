@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/tpoulsen/.oh-my-zsh/custom/plugins'
+let g:netrw_dirhist_8='/Users/tpoulsen/.oh-my-zsh/custom'
+let g:netrw_dirhist_7='/Users/tpoulsen/.oh-my-zsh/custom/plugins/example'
+let g:netrw_dirhist_6='/Users/tpoulsen/.oh-my-zsh/custom/plugins'
+let g:netrw_dirhist_5='/Users/tpoulsen/Code/PCC-TimeBot/.git'
+let g:netrw_dirhist_4='/Users/tpoulsen/stuff/471Repos/CS471-F21-Team3/vast/client/src/components'
+let g:netrw_dirhist_3='/Users/tpoulsen/.ivy2'
+let g:netrw_dirhist_2='/Users/tpoulsen/.Trash'
+let g:netrw_dirhist_1='/Users/tpoulsen/school/f21/cs452/hw3/src/Test'
